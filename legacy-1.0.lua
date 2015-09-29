@@ -1,0 +1,1 @@
+--provides support of the newest computercraft functions for computercraft v1.0
